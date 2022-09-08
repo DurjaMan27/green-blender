@@ -1,4 +1,4 @@
-# open-experiment
+# green-blender
 Experimenting with open source projects
 
 GOAL OF OPEN SOURCE PROJECT:

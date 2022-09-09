@@ -12,4 +12,5 @@ CONTENTS OF SITE:
 2. IMPORTANT ENVIRONMENTAL STATISTICS - the most important thing to get people's attention are statistics. Sadly, many of the statistics making headlines today are deeply concerning, yet many people are taking them for granted. Widely displaying these statistics will communicate the message further.
 3. ENVIRONMENT-RELATED NEWS - this section goes hand-in-hand with the environmental statistics section. If students are not aware of what is going on around them, how can they be expected to make an impact?
 4. FINANCE/ESG SCORES - In a world of open finance and smart investing, setting students on the right path to investing is crucial to encouraging large corporations to do their due diligence. Encouraging young students to look at values such as ESG scores, management, and carbon footprint will ensure that these students are making educated investments while also pushing companies to make a positive impact on the environment.
+5. ACCOUNT - allows an user to create an account, sign in with an username and password, and connect with other users. 
 

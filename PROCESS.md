@@ -1,7 +1,7 @@
 # Process of creating open source project
 
 GOAL #1: CLEAN-UP PROJECT SIGNUPS
-Currently TBD.
+Necessary for accounts to have a signup manager and regular account. Creating different account types will allow for some users to create signups and other users to signup for these events.
 
 GOAL #2: ARTICLES AND STATISTICS
 Using a python package similar to Twython, we will scour the internet on a set schedule to find articles related to the environment and cycle these articles through the site. By using this package, the articles will be auto-updated and kept up-to-date. In addition to this package, we will use a Natural Language Processor to find important and relevant statistics that can be highlighted outside the article.

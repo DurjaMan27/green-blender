@@ -7,6 +7,9 @@ The open source project will center around environmental sustainability, focusin
 PURPOSE OF PROJECT/REASON FOR CREATION:
 The purpose of this repository is for students to experiment with open source coding and collaboration through GitHub. The goal is to create an extensive and advanced open source project with a clear topic.
 
+METHODS:
+Using multiple languages such as Python , Java, and HTML, we can create the connection between 
+
 CONTENTS OF SITE:
 1. CLEAN-UP PROJECT SIGNUPS - the site will feature local clean-up projects that will allow anyone to get out and contribute. Environmental groups will be able to post potential projects and the site will communicate their goals with students interested in making an impact.
 2. IMPORTANT ENVIRONMENTAL STATISTICS - the most important thing to get people's attention are statistics. Sadly, many of the statistics making headlines today are deeply concerning, yet many people are taking them for granted. Widely displaying these statistics will communicate the message further.

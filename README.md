@@ -19,7 +19,7 @@ CONTENTS OF SITE:
 
 
 
-### About the Author
+# About the Author
 ## Hello, my name is Varun Rao and I am a high school student! 👋
 
 - 🔭 I’m currently working on [The Green Blender](https://github.com/DurjaMan27/green-blender), an open source project dedicated to environmental sustainability and awareness
